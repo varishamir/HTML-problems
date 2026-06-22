@@ -1,4 +1,11 @@
- img {
+img {
     height: auto;
-    width: 500px;
+    width: 40%;
+    border-radius: 5%;
 }
+
+ .image-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+ }
